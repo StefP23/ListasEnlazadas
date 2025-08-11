@@ -14,7 +14,7 @@ Programa en Java que implementa una lista enlazada simple, con un menú interact
 - Vaciar la lista completa
 - Salir del programa
 
-## Vista del menú en Consola
+## 📟 Vista del menú en Consola
 <img width="460" height="288" alt="image" src="https://github.com/user-attachments/assets/9b489c0b-5a9d-49af-a395-7a9ed2689bfe" />
 
 
